@@ -5,7 +5,7 @@
  * Version: 1.1.0
  * Author: Bakhtawer Jabeen
  */
-
+ 
 if ( ! defined( 'ABSPATH' ) ) exit;
 
 define( 'STWI_PATH', plugin_dir_path(__FILE__) );
